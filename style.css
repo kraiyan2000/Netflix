@@ -1575,3 +1575,13 @@
     height: 140vh;
 }
 }
+@media(max-width:372px){
+    .container3 .section1 img {
+        height: 46vh;
+    }
+}
+@media(max-width:372px){
+.container7 {
+    height: 140vh;
+}
+}
